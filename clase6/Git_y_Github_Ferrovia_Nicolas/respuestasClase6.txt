@@ -1,0 +1,5 @@
+1) Git es un sistema de control de versiones distribuido que, como ya hemos introducido, fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por lí­nea de comandos, disponible para Windows, MacOS X y GNU/Linux. En la actualidad, existen además multitud de clientes gráficos y herramientas basadas en git.
+
+2) El dueño actual de GitHub es Microsoft pero fue creado por el creador de Linux.
+
+3) Se puede utilizar la terminar de windows, git bash u otros.

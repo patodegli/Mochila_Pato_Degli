@@ -1,31 +1,10 @@
-﻿MESA 1:
-* Roy Alejandro Martinez.
-* Martin Frei.
-* Luisa María Valencia.
-* Nahuel Muñiz.
-* Julián García. 
-
-
-1. Clonar el repositorio de la cursada.
-2. Crear una rama: Apellido_Nombre.
-3. Crear una carpeta  con el nombre de Git_y_Github_Apellido_Nombre en la rama
-4. En la misma crear un archivo respondiendo las siguientes preguntas:
- 
-   1. ¿Quién inventó el sistema de control de versión Git y por qué?
+¿Quién inventó el sistema de control de versión Git y por qué?
 Git fue creado por Linus Tordvalds con el propósito de llevar un control de versiones en proyectos que tenían archivos con un gran número de archivos de código fuente. Así logró llevar registro de los cambios en archivos locales y luego coordinar el trabajo de varias personas para compartir los archivos en un repositorio de código. 
-   2. ¿A quién pertenece actualmente Github y por qué?
+¿A quién pertenece actualmente Github y por qué?
 Actualmente Github le pertenece a Microsoft. Fue adquirida por esta gran empresa debido a la creciente utilización del software para diferentes proyectos. 
-   3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+¿Hay otra forma que no sea la terminal para trabajar con Github?
 Interfaces graficas como:
 Github desktopu,SmartGit,GitKraken,SourceTree.
 
-
 Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades
-
-
-
-
-
-
-5. Subir la carpeta a la mochila dentro de la clase 6.
-¡No te olvides de subir esta misma actividad a tu mochila individual!
+1~

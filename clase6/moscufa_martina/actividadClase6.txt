@@ -1,0 +1,10 @@
+a) ¿Quién inventó el sistema de control de versión Git y por qué?
+Tom Preston-Werner, Chris Wanstrath, PJ Hyett son los que  desarrollaron Github.
+Porque necesitaban una herramienta de trabajo.
+
+b) ¿A quién pertenece actualmente Github y por qué?
+Actualmente Github le pertenece a Microsoft.
+Porque Microsoft pagó muchos millones por tener una herramienta de trabajo tan útil.
+
+c) ¿Hay otra forma que sea la terminal para trabajar con Github?
+Si, hay muchas otras. Como ejemplo: Git Bash, Powershell, etc.

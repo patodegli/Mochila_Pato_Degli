@@ -1,3 +1,0 @@
-1. Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
-2. El 4 de junio de 2018 Microsoft compró GitHub.
-3. Se puede utilizar a traves de la aplicacion de escritorio de GitHub sin necesidad de utilizar la terminal.

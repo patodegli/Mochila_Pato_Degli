@@ -7,4 +7,4 @@ Interfaces graficas como:
 Github desktopu,SmartGit,GitKraken,SourceTree.
 
 Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades
-1~
+1

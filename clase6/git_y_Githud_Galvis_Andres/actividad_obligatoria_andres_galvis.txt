@@ -1,7 +1,0 @@
-* git init// crea el repositorio local
-* git add // se utiliza para agregar archivos
-* git status//seguimiento de los archivos y el estado del proyecto
-* git commit -m"mensaje"//comitea los cambios hechos
-* git push origin main // sube los archivos al repositorio remoto
-* git pull origin main // descarga las actualizaciones del repositorio remoto
-git clone URL // clona el repositorio remoto

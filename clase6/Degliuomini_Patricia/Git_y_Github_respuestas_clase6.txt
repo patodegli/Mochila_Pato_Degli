@@ -1,7 +1,0 @@
-Respuestas clase 6:
-
-1)es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
-
-2)Microsot ha comprado GiHub. La importancia de GitHub se encuentra en que es el epicentro del software libre. La gran mayoría de lo que ocurre en torno al software libre, ocurre en GitHub.
-
-3)Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades

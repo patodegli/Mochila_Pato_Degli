@@ -1,5 +1,0 @@
-1. Git lo inventó Linus Torvalds para poder continuar el desarrollo del Kernel de Linux. El equipo de desarrollo ya no podía usar BitKeeper y por el momento no había ningún sistema que cumpliera con sus requisitos
-
-2. El actual dueño de GitHub es Microsoft, quien lo compró en Octubre de 2018 por 7.500 millones de dólares. Lo hizo para preparar al mundo para los cambios o avances que se venían
-
-3. Además de las diferentes terminales con las que se puede usar (cmd, powershell, bash, etc), GitHub tiene una página y su propia apliación de escritorio que son mas amistosas al usuario principiante, pero menos poderosas que las terminales

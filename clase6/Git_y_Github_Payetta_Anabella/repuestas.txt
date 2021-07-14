@@ -1,4 +1,0 @@
-1) Git es un sistema de control de versiones distribuido que fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por línea de comandos, disponible para Windows, MacOS X y GNU/Linux.
-2) GitHub es propiedad de Microsoft, quien anunció un nuevo producto llamado GitHub Copilot que es un asistente de inteligencia artificial para desarrolladores de software. El mismo fue desarrollado utilizando los códigos existentes en GitHub.
-3) Se puede trabajar con GitHub mediante los clientes de la interfaz gráfica de usuario (GUI, por sus siglas en inglés), que  son herramientas que proporcionan una visualización alternativa para Git. Algunos de ellos son: QGit, Gitg, Sourcetree, GitHub Desktop,
-GitUp, GitBox, GitKraken y SmartGit, entre otros. 

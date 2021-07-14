@@ -1,7 +1,0 @@
-a) Git es un sistema de control de versiones distribuido de código abierto desarrollado por Linus Torvalds, 
-el creador de Linux. El control de versiones distribuido permite a los desarrolladores descargar un software, 
-realizar cambios y subir la versión que han modificado.
-
-b) Github es propiedad de Microsoft desde finales de 2018 por 7.5 mil millones de dolares.
-
-c) Si, muchas. Gitbash, Powershell, y Github desktop son algunas de ellas.

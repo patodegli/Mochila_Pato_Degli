@@ -1,5 +1,0 @@
-Pregunta 1. Github es un repositorio online gratuito que permite 
-gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad 
-a millones de personas de todo el mundo a cooperar en ellos. Creado por Ruby on rails
-Pregunta 2. Microsoft, porque vio la oportunidad.
-3. Exiten otros, power shell, bash.

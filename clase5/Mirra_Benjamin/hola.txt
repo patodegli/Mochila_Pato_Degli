@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+hola este archiv es txt
+=======
+asdfsafasdf
+sdsdsd
+>>>>>>> ea16fbf33a5b7bdf7c54848ebf3c688cb6dd4390

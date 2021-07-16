@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+saludar
+=======
+Esto es un archivo de texto, creado por Nahuel
+>>>>>>> 7ba6218af07e186e8e661883e021fe9076ddf498

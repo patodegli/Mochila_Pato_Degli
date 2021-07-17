@@ -1,4 +1,5 @@
-ï¿½Quiï¿½n inventï¿½ el sistema de control de versiï¿½n Git y por quï¿½?
+<<<<<<< HEAD
+¿Quién inventó el sistema de control de versión Git y por qué?
 
 -Fue creado por Linus Torvalds, y lo creo ya que estando en
 desacuerdo con el creador de Bitkeeper, Larry McVoy, y problemas
@@ -7,15 +8,37 @@ propio sistema pero mas que una herramienta de versiones, la llama
 simplemente herramienta de distribucion y archivo de fricheros.
 
 
-ï¿½A quiï¿½n pertenece actualmente Github y por quï¿½?
+¿A quién pertenece actualmente Github y por qué?
 
 -En 2017 Microsoft adquiere Github, para colaborar y crear el 
 futuro, y darle poder a los desarrolladores mejores opciones de
 manejo.
 
 
-ï¿½Hay otra forma que no sea la terminal para trabajar con Github?
+¿Hay otra forma que no sea la terminal para trabajar con Github?
 
 -Si, existen programas para manejar Git sin utilizar la consola,
 como fork, que automatizan las acciones y te da un grafico de
+=======
+¿Quién inventó el sistema de control de versión Git y por qué?
+
+-Fue creado por Linus Torvalds, y lo creo ya que estando en
+desacuerdo con el creador de Bitkeeper, Larry McVoy, y problemas
+con su programa, busca probrar otras soluciones, decide crear su
+propio sistema pero mas que una herramienta de versiones, la llama
+simplemente herramienta de distribucion y archivo de fricheros.
+
+
+¿A quién pertenece actualmente Github y por qué?
+
+-En 2017 Microsoft adquiere Github, para colaborar y crear el 
+futuro, y darle poder a los desarrolladores mejores opciones de
+manejo.
+
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+-Si, existen programas para manejar Git sin utilizar la consola,
+como fork, que automatizan las acciones y te da un grafico de
+>>>>>>> main
 como funciona el repositorio.

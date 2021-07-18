@@ -1,0 +1,1 @@
+Git Bash es una terminal que utiliza el lenguaje bash, esta podemos abrirla en vscode para trabajar desde el entorno de desarrolo

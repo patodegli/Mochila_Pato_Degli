@@ -1,0 +1,1 @@
+Los servidores son los que guardar nuestra base de datos y los que responden las request del cliente

@@ -1,0 +1,33 @@
+<<<<<<< HEAD:clase6/AlonsoJalil_PaulaMercedes/clase6.txt
+=======
+<<<<<<< HEAD
+>>>>>>> a941498f747267b289cfd0bc5a7c0650e13fa08e:clase6/Clase_6_AlonsoJalil_PaulaMercedes/clase6.txt
+1. Git fue creado por Linus Torvalds en 2005 para el desarrollo del kernel de Linux.
+
+2. Microsoft adquirió GitHub por 7.500 millones de dólares en acciones.
+
+El acuerdo, que aumentó el enfoque de Microsoft en el desarrollo de código abierto, 
+tenía como objetivo aumentar el uso empresarial de GitHub y llevar las herramientas y 
+servicios de desarrollo de Microsoft a nuevas audiencias.
+
+Al unir fuerzas con GitHub, el CEO Satya Nadella dijo, "fortalecemos nuestro compromiso con 
+la libertad, apertura e innovación de los desarrolladores".
+
+3. Si, hay otras formas como Gitbash, Powershell, la terminal de Mac y de Linux.
+<<<<<<< HEAD:clase6/AlonsoJalil_PaulaMercedes/clase6.txt
+=======
+=======
+1. Git fue creado por Linus Torvalds en 2005 para el desarrollo del kernel de Linux.
+
+2. Microsoft adquirió GitHub por 7.500 millones de dólares en acciones.
+
+El acuerdo, que aumentó el enfoque de Microsoft en el desarrollo de código abierto, 
+tenía como objetivo aumentar el uso empresarial de GitHub y llevar las herramientas y 
+servicios de desarrollo de Microsoft a nuevas audiencias.
+
+Al unir fuerzas con GitHub, el CEO Satya Nadella dijo, "fortalecemos nuestro compromiso con 
+la libertad, apertura e innovación de los desarrolladores".
+
+3. Si, hay otras formas como Gitbash, Powershell, la terminal de Mac y de Linux.
+>>>>>>> main
+>>>>>>> a941498f747267b289cfd0bc5a7c0650e13fa08e:clase6/Clase_6_AlonsoJalil_PaulaMercedes/clase6.txt
